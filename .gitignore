@@ -1,0 +1,8 @@
+# Ignore generated data and artifacts
+raw_data.csv
+processed_data.csv
+processed_data.parquet
+data_pipeline_etl.zip
+executed_etl_pipeline.ipynb
+__pycache__/
+.ipynb_checkpoints/
